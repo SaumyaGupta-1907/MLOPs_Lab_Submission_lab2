@@ -1,0 +1,180 @@
+[2025-10-02T18:35:47.230+0000] {processor.py:153} INFO - Started process (PID=1882) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:35:47.230+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:35:47.231+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:35:47.231+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:35:47.359+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:35:47.458+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:35:47.458+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:iris_mlp_training
+[2025-10-02T18:35:47.461+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:35:47.461+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:iris_mlp_training
+[2025-10-02T18:35:47.463+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:35:47.463+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:iris_mlp_training
+[2025-10-02T18:35:47.464+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:35:47.464+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:35:47.468+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:35:47.468+0000] {dag.py:2711} INFO - Creating ORM DAG for iris_mlp_training
+[2025-10-02T18:35:47.471+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:35:47.471+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:35:47.478+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.251 seconds
+[2025-10-02T18:36:01.335+0000] {processor.py:153} INFO - Started process (PID=1899) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:36:01.336+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:36:01.336+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:36:01.336+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:36:01.456+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:36:01.460+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:36:01.460+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:36:01.532+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:36:01.532+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:36:01.539+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.206 seconds
+[2025-10-02T18:36:02.570+0000] {processor.py:153} INFO - Started process (PID=1900) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:36:02.571+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:36:02.572+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:36:02.572+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:36:02.707+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:36:02.712+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:36:02.712+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:36:02.781+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:36:02.781+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:36:02.788+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.223 seconds
+[2025-10-02T18:36:03.817+0000] {processor.py:153} INFO - Started process (PID=1901) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:36:03.818+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:36:03.818+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:36:03.818+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:36:03.952+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:36:03.957+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:36:03.957+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:36:04.028+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:36:04.028+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:36:04.035+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.223 seconds
+[2025-10-02T18:36:10.890+0000] {processor.py:153} INFO - Started process (PID=1918) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:36:10.891+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:36:10.891+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:36:10.891+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:36:11.026+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:36:11.031+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:36:11.031+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:36:11.106+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:36:11.106+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:36:11.112+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.226 seconds
+[2025-10-02T18:36:41.358+0000] {processor.py:153} INFO - Started process (PID=1968) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:36:41.359+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:36:41.359+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:36:41.359+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:36:41.496+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:36:41.580+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:36:41.580+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:36:41.587+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:36:41.587+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:36:41.594+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.238 seconds
+[2025-10-02T18:37:11.882+0000] {processor.py:153} INFO - Started process (PID=2003) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:37:11.882+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:37:11.883+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:37:11.883+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:37:12.074+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:37:12.082+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:37:12.082+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:37:12.090+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:37:12.090+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:37:12.096+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.218 seconds
+[2025-10-02T18:37:42.375+0000] {processor.py:153} INFO - Started process (PID=2054) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:37:42.376+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:37:42.376+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:37:42.376+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:37:42.595+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:37:42.603+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:37:42.603+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:37:42.611+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:37:42.611+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:37:42.616+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.245 seconds
+[2025-10-02T18:38:12.829+0000] {processor.py:153} INFO - Started process (PID=2105) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:38:12.830+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:38:12.831+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:38:12.831+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:38:13.075+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:38:13.083+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:38:13.083+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:38:13.091+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:38:13.091+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:38:13.098+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.273 seconds
+[2025-10-02T18:38:21.516+0000] {processor.py:153} INFO - Started process (PID=2124) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:38:21.517+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:38:21.517+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:38:21.517+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:38:21.716+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:38:21.724+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:38:21.724+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:38:21.733+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:38:21.733+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:38:21.740+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.227 seconds
+[2025-10-02T18:38:51.972+0000] {processor.py:153} INFO - Started process (PID=2159) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:38:51.972+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:38:51.973+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:38:51.973+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:38:52.106+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:38:52.118+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:38:52.118+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:38:52.193+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:38:52.193+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:38:52.199+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.231 seconds
+[2025-10-02T18:39:22.384+0000] {processor.py:153} INFO - Started process (PID=2210) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:39:22.385+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:39:22.385+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:39:22.385+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:39:22.520+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:39:22.529+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:39:22.529+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:39:22.599+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:39:22.599+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:39:22.605+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.226 seconds
+[2025-10-02T18:39:52.886+0000] {processor.py:153} INFO - Started process (PID=2261) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:39:52.887+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:39:52.887+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:39:52.887+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:39:53.020+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:39:53.088+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:39:53.088+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:39:53.096+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:39:53.096+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:39:53.102+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.220 seconds
+[2025-10-02T18:40:08.014+0000] {processor.py:153} INFO - Started process (PID=2278) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:08.014+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:40:08.015+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:08.015+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:08.152+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:08.237+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:08.237+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:40:08.246+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:08.246+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:40:08.253+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.243 seconds
+[2025-10-02T18:40:09.222+0000] {processor.py:153} INFO - Started process (PID=2279) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:09.222+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:40:09.223+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:09.223+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:09.352+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:09.428+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:09.428+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:40:09.436+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:09.436+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:40:09.443+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.224 seconds
+[2025-10-02T18:40:10.271+0000] {processor.py:153} INFO - Started process (PID=2289) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:10.271+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:40:10.272+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:10.272+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:10.404+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:10.494+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:10.494+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:40:10.504+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:10.504+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:40:10.512+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.242 seconds
+[2025-10-02T18:40:20.566+0000] {processor.py:153} INFO - Started process (PID=2297) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:20.567+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:40:20.568+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:20.568+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:20.789+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:20.797+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:20.797+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:40:20.806+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:20.806+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:40:20.813+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.250 seconds
+[2025-10-02T18:40:22.851+0000] {processor.py:153} INFO - Started process (PID=2316) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:22.853+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:40:22.854+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:22.854+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:23.055+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:23.062+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:23.062+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:40:23.070+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:23.070+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:40:23.076+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.229 seconds
+[2025-10-02T18:40:26.077+0000] {processor.py:153} INFO - Started process (PID=2317) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:26.078+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:40:26.078+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:26.078+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:26.292+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:26.300+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:26.300+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:40:26.308+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:26.308+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:40:26.314+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.240 seconds
+[2025-10-02T18:40:56.551+0000] {processor.py:153} INFO - Started process (PID=2368) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:56.552+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:40:56.553+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:56.553+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:56.744+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:40:56.752+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:56.752+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:40:56.760+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:40:56.760+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:40:56.766+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.219 seconds
+[2025-10-02T18:41:26.979+0000] {processor.py:153} INFO - Started process (PID=2403) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:41:26.979+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:41:26.980+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:41:26.980+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:41:27.215+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:41:27.235+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:41:27.235+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:41:27.249+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:41:27.249+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:41:27.257+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.279 seconds
+[2025-10-02T18:41:57.531+0000] {processor.py:153} INFO - Started process (PID=2453) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:41:57.532+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:41:57.532+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:41:57.532+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:41:57.663+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:41:57.673+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:41:57.673+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:41:57.762+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:41:57.762+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:41:57.768+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.240 seconds
+[2025-10-02T18:42:06.623+0000] {processor.py:153} INFO - Started process (PID=2470) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:42:06.623+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:42:06.624+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:42:06.624+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:42:06.757+0000] {processor.py:753} INFO - DAG(s) dict_keys(['iris_mlp_training']) retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:42:06.765+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:42:06.765+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2025-10-02T18:42:06.835+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:42:06.835+0000] {dag.py:3441} INFO - Setting next_dagrun for iris_mlp_training to None, run_after=None
+[2025-10-02T18:42:06.842+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.223 seconds
+[2025-10-02T18:42:16.916+0000] {processor.py:153} INFO - Started process (PID=2487) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:42:16.917+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:42:16.917+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:42:16.917+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:42:17.052+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:42:17.058+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.143 seconds
+[2025-10-02T18:42:18.940+0000] {processor.py:153} INFO - Started process (PID=2488) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:42:18.941+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:42:18.941+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:42:18.941+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:42:19.074+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:42:19.080+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.143 seconds
+[2025-10-02T18:42:49.678+0000] {processor.py:153} INFO - Started process (PID=2543) to work on /opt/airflow/dags/airflow2.py
+[2025-10-02T18:42:49.679+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/airflow2.py for tasks to queue
+[2025-10-02T18:42:49.680+0000] {logging_mixin.py:137} INFO - [2025-10-02T18:42:49.680+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:42:49.812+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/airflow2.py
+[2025-10-02T18:42:49.817+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/airflow2.py took 0.143 seconds
